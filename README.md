@@ -11,5 +11,5 @@
   - <a href="https://stepik.org/cert/2007074" target="_blank">Основы Статистики. Часть 1</a>
   - <a href="https://stepik.org/cert/2012987" target="_blank">Основы Статистики. Часть 2</a>
 <h3> Стек:</h3>
-<img src="https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/Q4WIZkDlDZ1FeQ" height=150 width=570>
+<img src="https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/yW3Su47umtxQMA" height=150 width=570>
 
